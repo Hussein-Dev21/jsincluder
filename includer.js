@@ -24,5 +24,6 @@ function includeHTML() {
       return;
     }
   }
-}
+};
+
 includeHTML();
